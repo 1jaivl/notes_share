@@ -1,2 +1,10 @@
 # notes_share
-my notes 
+杂乱无章的笔记
+
+
+
+### pictures
+
+<p align = "center">
+<img src="pictures/ghm.jpg"/>
+</p>
